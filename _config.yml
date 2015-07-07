@@ -24,14 +24,13 @@
 
 # Site settings
 title: Munblocked
-email: naveen@pixelblenders.com
+email: wvzhigaylo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I'm Naveen, a freelance front-end developer
-  and UI designer. Check out my projects on GitHub
+  Munblocked is your one stop site for flash games, movies, game downloads, and more.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://naveenshaji.github.io/material" # the base hostname & protocol for your site
-twitter_username: navvenshady
-github_username:  naveenshaji
+twitter_username: wzhigaylo
+github_username:  munblocked
 css: "cyan"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
